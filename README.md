@@ -6,8 +6,8 @@
 # Important links
 - [Class Slack](https://ga-students.slack.com/)
 - [Gitbook](https://wdi-sg.github.io/gitbook-2018)
-- [Exit Ticket](https://goo.gl/forms/OJRsxVoxv6j2rJ6p1)
-- [Padlet](https://padlet.com/raywtham/ghtjsjkotwc2)
+- [Exit Ticket](https://goo.gl/FXdQs2)
+- [Standup](https://wdi-sg.github.io/gitbook-2018/01-workflow/standup.html)
 
 
 
@@ -141,21 +141,47 @@ Holidays:
 | Lunch - 02:30 | Lab / Other Topic
 | 03:00 onwards | Lab + Homework
 
-#### [Outcomes Topics](#outcomes-topics)
-Some dates To Be Determined
+
+---
+
+#### Front-End Javascript
+
+| Topic                                               | Assignments
+| ---                                                 | ---
+| [Installfest][23]                                   |                                              |
+| CLI[1][10004][2][10005][3][10006][4][10007]         |                                              |
+| git[1][10010][2][10011][3][10012][4][10013]         |                                              |
+| JavaScript Primitives[1][10001][2][10002]           | [Primitives Exercises][1003]                 |
+| [Javascript Conditionals][10003]                    |                                              |
 
 
-| Topic                                   | Week  |
-| ---                                     | ---   |         
-| Intro to Outcomes                       |  2    |
-| Alumni Panel                            |  3    |
-| Resume Writing / Linkedin               |  4    |
-| Resume Writing                          |  TBD  |
-| Job Search Strategy + Branding / Pitch  |  TBD  |
-| Interview, Negotiations, Fill the Role  |  TBD  |
-| Company Campus Visit                    |  TBD  |
-| Mock Interviews                         |  TBD  |
 
+<!-- Unit 1 Lecture -->
+[10004]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/01readme.html
+[10005]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/02intro-terminal.html
+[10006]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/03navigating.html
+[10007]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/04file-manipulation.html
+[10008]: https://wdi-sg.github.io/gitbook-2018/01-workflow/pseudocode-lowlevel.html
+
+[10010]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/02vcs.html
+[10011]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/03localgit.html
+[10012]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/04remotegit.html
+[10013]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/06remotefork.html
+
+
+[10001]: https://wdi-sg.github.io/gitbook-2018/02-js/javascript.html
+[10002]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/readme.html
+[10003]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/03booleans-and-conditionals.html
+<!-- End Unit 1 Lecture -->
+
+<!-- Unit 1 Exercises -->
+[11001]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/command-line-lab.html
+<!-- End Unit 1 Exercises -->
+
+<!-- Unit 1 HW -->
+[1003]: https://github.com/wdi-sg/js-primitives
+[11002]: https://try.github.io/levels/1/challenges/1
+<!-- End Unit 1 HW -->
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
