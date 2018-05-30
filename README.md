@@ -148,11 +148,11 @@ Holidays:
 
 | Topic                                               | Assignments
 | ---                                                 | ---
-| [Installfest][23]                                   |                                              |
-| CLI[1][10004][2][10005][3][10006][4][10007]         |                                              |
-| git[1][10010][2][10011][3][10012][4][10013]         |                                              |
-| JavaScript Primitives[1][10001][2][10002]           | [Primitives Exercises][1003]                 |
-| [Javascript Conditionals][10003]                    |                                              |
+| [Installfest][23]                                   |                                                     |
+| CLI[1][10004][2][10005][3][10006][4][10007]         |                                                     |
+| git[1][10010][2][10011][3][10012][4][10013]         |                                                     |
+| JavaScript Primitives[1][10001][2][10002]           | [temperature converter][11004] [git practice][11002]|
+| [Javascript Conditionals][10003]                    |                                                     |
 
 
 
@@ -181,6 +181,7 @@ Holidays:
 <!-- Unit 1 HW -->
 [1003]: https://github.com/wdi-sg/js-primitives
 [11002]: https://try.github.io/levels/1/challenges/1
+[11004]: https://github.com/wdi-sg/temperature_converter
 <!-- End Unit 1 HW -->
 
 <!-- References for Additional Materials Section 5xxx -->
