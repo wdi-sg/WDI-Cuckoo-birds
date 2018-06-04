@@ -151,38 +151,135 @@ Holidays:
 | [Installfest][23]                                   |                                                     |
 | CLI[1][10004][2][10005][3][10006][4][10007]         |                                                     |
 | git[1][10010][2][10011][3][10012][4][10013]         |                                                     |
-| JavaScript Primitives[1][10001][2][10002]           | [temperature converter][11004] [git practice][11002]|
+| JavaScript Primitives[1][10001][2][10002]           | [temperature converter][11004]                      |
 | [Javascript Conditionals][10003]                    |                                                     |
 
 
 
 <!-- Unit 1 Lecture -->
+<!-- CLI -->
 [10004]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/01readme.html
 [10005]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/02intro-terminal.html
 [10006]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/03navigating.html
 [10007]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/04file-manipulation.html
+
+<!-- low level pseudocode -->
 [10008]: https://wdi-sg.github.io/gitbook-2018/01-workflow/pseudocode-lowlevel.html
 
+<!-- git -->
 [10010]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/02vcs.html
 [10011]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/03localgit.html
 [10012]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/04remotegit.html
 [10013]: https://wdi-sg.github.io/gitbook-2018/01-workflow/intro-git/06remotefork.html
 
-
+<!-- js - types and conditionals  -->
 [10001]: https://wdi-sg.github.io/gitbook-2018/02-js/javascript.html
 [10002]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/readme.html
 [10003]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/03booleans-and-conditionals.html
+
+<!-- js - loops -->
+[10004]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/04loops.html
+[10005]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/06-iterating-over-arrays.html
+[10006]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/05chrome-dev-tools.html
+
+<!-- js - functions -->
+[10007]: https://wdi-sg.github.io/gitbook-2018/02-js/js-functions/readme.html
+
+<!-- html / css -->
+[10008]: https://wdi-sg.github.io/gitbook-2018/03-html-css/html-review/readme.html
+[10009]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-selectors/readme.html
+[10010]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-box-model/02box-model.html
+[10011]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-box-model/03display-positioning.html
+
+<!-- js - callbacks -->
+[10012]: https://wdi-sg.github.io/gitbook-2018/02-js/js-callbacks-iterators/readme.html
+
+
+
+
+
 <!-- End Unit 1 Lecture -->
 
-<!-- Unit 1 Exercises -->
-[11001]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/command-line-lab.html
+<!-- Unit 1 Class Exercises -->
+
+  <!-- CLI -->
+  [11001]: https://wdi-sg.github.io/gitbook-2018/01-workflow/command-line/command-line-lab.html
+
+  <!-- js - types and conditionals  -->
+  [11003]: https://github.com/wdi-sg/js-data-types
+
+  <!-- js - loops -->
+  <!-- in the gitbook -->
+
+  <!-- js - functions -->
+  <!-- in the gitbook -->
+
+  <!-- html / css -->
+  [11004]: https://flukeout.github.io/
+  [11005]: https://github.com/wdi-sg/fashion-blog
+
+  <!-- js - callbacks -->
+  <!-- in the gitbook -->
+
 <!-- End Unit 1 Exercises -->
 
 <!-- Unit 1 HW -->
-[1003]: https://github.com/wdi-sg/js-primitives
-[11002]: https://try.github.io/levels/1/challenges/1
-[11004]: https://github.com/wdi-sg/temperature_converter
+
+  <!-- git -->
+  [11002]: https://try.github.io/levels/1/challenges/1
+  [1026]: https://github.com/wdi-sg/learn-git-newsroom-style
+
+  <!-- js - types and conditionals -->
+  [1003]: https://github.com/wdi-sg/js-primitives
+  [11004]: https://github.com/wdi-sg/temperature_converter
+  [11005]: https://github.com/wdi-sg/js-control-flow
+
+  <!-- js - loops -->
+  [11006]: https://github.com/wdi-sg/google-shopping-conditionals-loops
+
+  <!-- js - functions -->
+  [11007]: https://github.com/wdi-sg/google-shopping-functions
+  [11008]: https://github.com/wdi-sg/choose_your_own_adventure_js
+
+  <!-- html / css -->
+  [11009]: https://github.com/wdi-sg/css-positioning
+
+  <!-- js - callbacks -->
+  <!-- (none) -->
+
+
+
 <!-- End Unit 1 HW -->
+
+
+
+
+<!--
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+
+
+  PREVIOUS STUFF!!!!!!!!
+  PAST HERE FOR REFERENCE!!
+
+
+
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+************************************************************
+-->
+
+
+
+
+
+
+
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
@@ -198,50 +295,24 @@ Holidays:
 <!-- Unit 3 Online Materials 53xx -->
 <!-- Unit 4 Online Materials 54xx -->
 <!-- Practice Questions 55xx -->
-[5501]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/sum-string.html
-[5502]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/mouse-follows-mouse.html
-[5503]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/english-calculator.html
-[5504]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kopi-order.html
-[5505]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/scrabble.html
-[5506]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-1.html
-[5507]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-2.html
+
 [5508]: https://github.com/wdi-sg/random-quote-generator
-[5509]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kitchen-sink.html
-[5510]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/custom-iterators.html
-<!-- Computer Science Section 56xx -->
-[5601]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-stacks-queues/readme.html
-[5602]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bracket-stacks/readme.html
-[5603]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
-[5604]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
-[5606]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-trees-data-structures/readme.html
-[5607]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-hashmaps/readme.html
-[5608]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-recursion/readme.html
-[5609]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/teaser-array-flatten.html
-[5610]: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html
-[5611]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-algorithm-complexity/readme.html
-[5612]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bucket-sort/readme.html
-[5613]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bubble-sort/readme.html
-[5614]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-mergesort/readme.html
-[5615]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-quicksort/readme.html
-[5616]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-sorting/readme.html
-[5617]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/additional/memory.html
 
 
 
-
-[1]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-internet/how-the-internet-works.html
-[2]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/01readme.html
-[3]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/intro-git/readme.html
 [4]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/readme.html
+
 [5]: https://wdi-sg.github.io/gitbook-2018/03-html-css/html-review/readme.html
 [6]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-selectors/readme.html
 [7]: https://wdi-sg.github.io/gitbook-2018/02-js/js-intro/js-control-flow/readme.html
 [9]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-box-model/readme.html
 [10]: https://wdi-sg.github.io/gitbook-2018/02-js/js-functions/readme.html
 [11]: https://wdi-sg.github.io/gitbook-2018/02-js/js-dom-events/readme.html
+
 [12]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-callbacks-iterators/readme.html
 [13]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-intro/readme.html
 [14]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/jquery-plugins/readme.html
+
 [15]: https://wdi-sg.github.io/gitbook-2018/02-js/js-ajax/readme.html
 [16]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-html-css/css-responsive-design/readme.html
 [17]: https://wdi-sg.github.io/gitbook-2018/03-html-css/css-bootstrap/readme.html
@@ -280,6 +351,11 @@ Holidays:
 [902]: https://github.com/wdi-sg/functions-thriller-lyrics
 [1000]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-internet/internet-lab.html
 [1001]: https://github.com/wdi-sg/command-line-murder-mystery
+
+
+
+
+
 [1002]: https://github.com/wdi-sg/google-shopping-conditionals-loops
 [1003]: https://github.com/wdi-sg/js-primitives
 [1004]: https://github.com/wdi-sg/js-control-flow
@@ -304,7 +380,8 @@ Holidays:
 [1023]: https://github.com/wdi-sg/css-positioning
 [1024]: https://github.com/wdi-sg/css-airbnb
 [1025]: https://github.com/wdi-sg/code-review
-[1026]: https://github.com/wdi-sg/learn-git-newsroom-style
+
+
 [1027]: http://flukeout.github.io
 [1028]: http://flexboxfroggy.com
 [1029]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/command-line-lab.html
@@ -427,18 +504,6 @@ Holidays:
 [1214]: https://github.com/wdi-sg/rails-national-parks/blob/master/part3.md
 [1215]: https://github.com/TayKangSheng/rails-flea-circus-test-starter
 
-[301]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-intro/readme.html
-[302]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-directives-filters/readme.html
-[303]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-animation/readme.html
-[304]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-bootstrap-directives/readme.html
-[305]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-http/readme.html
-[306]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-services/readme.html
-[307]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-routing/readme.html
-[309]: https://jeremiahalex.gitbooks.io/wdi-sg/content/04-databases/mongo-intro/intro-nosql.html
-[310]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-mongoose/readme.html
-[311]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-jwt/readme.html
-[313]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-express/readme.html
-[314]: https://github.com/wdi-sg/fly-on-angular
 [315]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-authentication/readme.html
 [316]: https://github.com/wdi-sg/angular-recipes
 [319]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-custom-filters/readme.html
@@ -450,20 +515,3 @@ Holidays:
 [332]: 10-react/react-animations/readme.html
 [333]: https://jeremiahalex.gitbooks.io/wdi-sg/content/04-databases/mongo-intro/data-modeling.html
 [334]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-mongoose/relations.html
-
-[1300]: https://github.com/wdi-sg/angular-calculator
-[1301]: https://github.com/wdi-sg/fruits-and-veggies
-[1302]: https://github.com/wdi-sg/angular-giphy
-[1303]: https://github.com/wdi-sg/angular-reddit-dashboard
-[1304]: 11-projects/project-4/readme.html
-[1305]: https://github.com/wdi-sg/angular-route-those-views
-[1306]: http://codepen.io/bhague1281/pen/EKyMVz
-[1307]: http://codepen.io/bhague1281/pen/aNZPrq
-[1309]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/teaser-ruby-binary-search/readme.html
-[1310]: https://github.com/wdi-sg/restful-api
-[1312]: 11-projects/mean-hackathon/readme.html
-[1313]: https://github.com/wdi-sg/angular-filters
-[1314]: https://github.com/wdi-sg/angular-directives
-[1315]: https://github.com/wdi-sg/interview-questions
-[1316]: https://github.com/wdi-sg/react-stopwatch
-[1317]: https://github.com/wdi-sg/react-yearbook
