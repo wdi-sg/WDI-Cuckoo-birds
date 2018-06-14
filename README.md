@@ -1,5 +1,7 @@
-# -- WDI15 --
+# -- WDI15 Cuckoo Bird --
 ## Class Repo
+
+![](https://media.giphy.com/media/2jMDnci0rjPZiSsFN5/giphy.gif)
 
 ---
 
