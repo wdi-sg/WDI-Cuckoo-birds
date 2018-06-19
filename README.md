@@ -107,8 +107,8 @@ Finally, we'll do 1-on-1 project post-mortems with all students. Read details ab
 
 |Name |Project 1 |Project 2 |Project 3|Project 4|
 |---|---|---|---|---|
-|Leon |   |   |   |   |
-|Delon |   |   |   |   |
+|Leon |[Mastah Mind](https://fupuchu.github.io/mastahmynd/) |   |   |   |
+|Delon |https://delontoh.github.io/game_project/ |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
