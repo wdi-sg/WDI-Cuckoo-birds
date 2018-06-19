@@ -102,7 +102,9 @@ Finally, we'll do 1-on-1 project post-mortems with all students. Read details ab
 
 ### Projects
 |Name |Project 1 | Project 2 | Project 3 | Project 4|
-|---|test---|---|---|---|
+|---|---|---|---|---|
+
+test
 
 ---
 
