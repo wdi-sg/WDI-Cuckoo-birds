@@ -101,23 +101,30 @@ Take this chance to learn cool things from one another, and ask questions that y
 Finally, we'll do 1-on-1 project post-mortems with all students. Read details about [post-mortem format](project-1/project-post-mortem.md) (note: you'll need to prepare for it).
 
 ### Projects
-|Name |Project 1 | Project 2 | Project 3 | Project 4|
-|---|---|---|---|---|
-|   |   |   |   |   |
 
 |Name |Project 1 |Project 2 |Project 3|Project 4|
 |---|---|---|---|---|
 |Leon |[Mastah Mind](https://fupuchu.github.io/mastahmynd/) |   |   |   |
-|Delon |https://delontoh.github.io/game_project/ |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|Delon |[Poke Snake](https://delontoh.github.io/game_project/) |   |   |   |
+|Martin |[Race](https://martinhilary.github.io/Projectfirst/) |   |   |   |
+|Meraj |[Dott](https://mirage1129.github.io/dott/) |   |   |   |
+|Ikhwan |[WhackaGnome](https://nurikhwan.github.io/Project_1/) |   |   |   |
+|SayWan |[Evolution](https://saywandeusher.github.io/Project-1-The-Game-Evolution/) |   |   |   |
+|WenYao |[PongGame](https://wenyaopeter.github.io/project1-pongGame/) |   |   |   |
+|Jodi |[Earth Trivia](https://jodich.github.io/earth-trivia/) |   |   |   |
+|Elvera |[RPG](https://adnacg.github.io/ga-project1/) |   |   |   |
+|Samantha |[Piak](https://samywamy.github.io/piak-game/) |   |   |   |
+|Vinneth |[Breakout](https://vinnykun.github.io/project-Game/) |   |   |   |
+|Ace |[Piggy](https://acecyq.github.io/project1_piggy/) |   |   |   |
+|Shaun |[MemoryGame](https://shaunprawn.github.io/Memory-Game-Cuckoo/) |   |   |   |
+|Jemina |[StarWars](https://jemzyd.github.io/spacewars/) |   |   |   |
+|Jay |[BlackJack](https://jellythewobbly.github.io/blackjackGame/) |   |   |   |
+|Faidhi |[Cliker](https://github.com/hygro5d/clickergame)   |   |   |   |
+|Julian |[Hydra](https://julianpoh.github.io/hydra/) |   |   |   |
+|TingSoon |[Tetris](https://tingsoon.github.io/tetris_game/) |   |   |   |
+|Gabriel |[BlackJack](https://angkiki.github.io/blackjack/) |   |   |   |
+|Bryan |[SpaceInvader](https://phangster.github.io/U1-project-Game/) |   |   |   |
+|Sabrina |[BoxHead](https://sadakosa.github.io/BoxHeadProject1/) |   |   |   |
 
 
 ---
