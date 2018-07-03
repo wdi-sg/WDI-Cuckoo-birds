@@ -45,6 +45,35 @@ This second project is your first foray into **building a full-stack application
 
 ---
 
+### App Ideas
+Certain apps are better suited to the short time frame and environment of WDI:
+
+**Tracking apps**
+Keeps track of user submitted data:
+- todo / note taking apps
+- fitness tracking apps
+- ecommerce / inventory apps
+- stock market
+- diet tracking
+
+**Games**
+Any game with player turns works well within the context of a CRUD app.
+
+Players can take turns for each step of the game and the state is saved in the database.
+
+- monopoly
+- battleship
+- card games: Magic The Gathering, Pokemon, Hearthstone, poker, etc.
+- scrabble
+
+**Data display apps**
+- pokedex
+- star wars api
+- tv browser
+
+
+---
+
 ### Useful Resources
 
 * **[Heroku](http://www.heroku.com)** _(for hosting your back-end)_

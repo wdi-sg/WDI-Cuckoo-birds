@@ -19,8 +19,6 @@ We will be doing an app [soft launch](/soft-launch.md) two days before the proje
 Your app should:
 
 * **Display a game in the browser**
-* **Switch turns** between two players, or switch turns between a player and the computer (AI)*
-* **Design logic for winning** & **visually display which player won**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
 * Use **Javascript or jQuery** for **DOM manipulation**
